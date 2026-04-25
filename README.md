@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Sayak%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20Lead%20%7C%20Robotics%20Enthusiast%20%7C%20Tech%20Innovator&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Sayak%20Pal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Builder&descAlignY=60&descSize=18" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide\&weight=700\&size=22\&duration=2800\&pause=1200\&color=00F7FF\&center=true\&vCenter=true\&repeat=true\&width=700\&height=120\&lines=;Hey+There%2C+I'm+Sayak+Pal;AI+%7C+Full+Stack+Developer;Hackathon+Winner;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
 
