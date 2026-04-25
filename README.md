@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Audiowide\&weight=700\&size=22\&duration=2800\&pause=1200\&color=00F7FF\&center=true\&vCenter=true\&repeat=true\&width=700\&height=120\&lines=;Hey+There%2C+I'm+Sayak+Pal;AI+%7C+Full+Stack+Developer;Hackathon+Winner;Building+Cool+Things+With+Tech)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/github/followers/Aranya01238?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
-<img src="https://img.shields.io/github/stars/Aranya01238?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
-<img src="https://komarev.com/ghpvc/?username=Aranya01238&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/Sayak-Pal?style=for-the-badge&logo=github&color=00C2FF&labelColor=1A1B27" />
+<img src="https://img.shields.io/github/stars/Sayak-Pal?style=for-the-badge&logo=github&color=FFD700&labelColor=1A1B27" />
+<img src="https://komarev.com/ghpvc/?username=Sayak-Pal&style=for-the-badge&color=blueviolet" />
 
 </div>
 
