@@ -169,11 +169,6 @@ Interests:
 </div>
 
 ---
-## ✍️ Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 
 
@@ -248,8 +243,11 @@ theme=transparent
 ---
 
 <div align="center">
+---
+## ✍️ Developer Quote
 
-### ⚡ Innovation + Leadership + Technology = Impact
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
