@@ -222,7 +222,7 @@ Interests:
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,tensorflow,opencv,numpy,pandas,git,github,vscode,intellij&perline=8" />
-
+theme=transparent
 </div>
 
 ---
